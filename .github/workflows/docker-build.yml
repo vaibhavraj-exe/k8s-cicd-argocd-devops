@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ${{ secrets.DOCKER_USERNAME }}/k8s-node-app:latest
+        tags: vaibhavrajexe/k8s-node-app:latest
